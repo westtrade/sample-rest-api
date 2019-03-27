@@ -1,0 +1,7 @@
+[package]
+name = "sample-rest-api"
+version = "0.1.0"
+authors = ["Popov Gennadiy <gennadiy.popov.87@yandex.ru>"]
+edition = "2018"
+
+[dependencies]
